@@ -1,0 +1,3410 @@
+[
+  {
+    "id": "1",
+    "title": "Introduction to Programming with Python",
+    "code": "CS101",
+    "department": "Computer Science",
+    "level": "Beginner",
+    "price": 4999,
+    "duration": "8 weeks",
+    "rating": 4.4,
+    "reviewCount": 67,
+    "instructor": {
+      "id": "inst-2",
+      "name": "Prof. Michael Chen",
+      "title": "Senior Web Developer",
+      "bio": "Former Google engineer with 15 years in web technologies",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive beginner level course covers all aspects of introduction to programming with python. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of introduction",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-1-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-1-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-1-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 147,
+    "isFeatured": true
+  },
+  {
+    "id": "2",
+    "title": "Data Structures and Algorithms",
+    "code": "CS201",
+    "department": "Computer Science",
+    "level": "Intermediate",
+    "price": 7999,
+    "duration": "10 weeks",
+    "rating": 4.5,
+    "reviewCount": 84,
+    "instructor": {
+      "id": "inst-3",
+      "name": "Dr. Emily Rodriguez",
+      "title": "UX Research Lead",
+      "bio": "Expert in human-computer interaction and user experience",
+      "avatar": "\ud83d\udc69\u200d\ud83c\udfa8",
+      "rating": 4.9
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of data structures and algorithms. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of data",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-2-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-2-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-2-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 194,
+    "isFeatured": false
+  },
+  {
+    "id": "3",
+    "title": "Object-Oriented Programming in Java",
+    "code": "CS102",
+    "department": "Computer Science",
+    "level": "Beginner",
+    "price": 5999,
+    "duration": "9 weeks",
+    "rating": 4.6,
+    "reviewCount": 101,
+    "instructor": {
+      "id": "inst-4",
+      "name": "James Williams",
+      "title": "Data Science Consultant",
+      "bio": "Ph.D. in Statistics with expertise in machine learning",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udd2c",
+      "rating": 4.7
+    },
+    "description": "This comprehensive beginner level course covers all aspects of object-oriented programming in java. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of object-oriented",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-3-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-3-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-3-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 241,
+    "isFeatured": true
+  },
+  {
+    "id": "4",
+    "title": "Advanced Algorithms and Complexity",
+    "code": "CS301",
+    "department": "Computer Science",
+    "level": "Advanced",
+    "price": 9999,
+    "duration": "12 weeks",
+    "rating": 4.7,
+    "reviewCount": 118,
+    "instructor": {
+      "id": "inst-5",
+      "name": "Prof. Lisa Anderson",
+      "title": "Cloud Architect",
+      "bio": "AWS and Azure certified professional with 12 years experience",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive advanced level course covers all aspects of advanced algorithms and complexity. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Strong foundation in the subject",
+      "Intermediate level courses completed",
+      "2+ years of experience recommended"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of advanced",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-4-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-4-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-4-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 6,
+    "studentsEnrolled": 288,
+    "isFeatured": false
+  },
+  {
+    "id": "5",
+    "title": "Computer Architecture",
+    "code": "CS202",
+    "department": "Computer Science",
+    "level": "Intermediate",
+    "price": 6999,
+    "duration": "8 weeks",
+    "rating": 4.8,
+    "reviewCount": 135,
+    "instructor": {
+      "id": "inst-6",
+      "name": "David Kumar",
+      "title": "Cybersecurity Expert",
+      "bio": "Certified Ethical Hacker and security consultant",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udcbc",
+      "rating": 4.9
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of computer architecture. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of computer",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-5-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-5-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-5-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 335,
+    "isFeatured": false
+  },
+  {
+    "id": "6",
+    "title": "Operating Systems Fundamentals",
+    "code": "CS203",
+    "department": "Computer Science",
+    "level": "Intermediate",
+    "price": 7499,
+    "duration": "10 weeks",
+    "rating": 4.9,
+    "reviewCount": 152,
+    "instructor": {
+      "id": "inst-7",
+      "name": "Maria Garcia",
+      "title": "Marketing Strategist",
+      "bio": "15 years in digital marketing and brand management",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "rating": 4.7
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of operating systems fundamentals. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of operating",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-6-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-6-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-6-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 382,
+    "isFeatured": false
+  },
+  {
+    "id": "7",
+    "title": "Database Management Systems",
+    "code": "CS204",
+    "department": "Computer Science",
+    "level": "Intermediate",
+    "price": 6999,
+    "duration": "9 weeks",
+    "rating": 4.3,
+    "reviewCount": 169,
+    "instructor": {
+      "id": "inst-8",
+      "name": "Robert Taylor",
+      "title": "Professional Photographer",
+      "bio": "Award-winning photographer and videographer",
+      "avatar": "\ud83d\udc68\u200d\ud83c\udfa8",
+      "rating": 4.8
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of database management systems. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of database",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-7-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-7-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-7-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 429,
+    "isFeatured": true
+  },
+  {
+    "id": "8",
+    "title": "Artificial Intelligence",
+    "code": "CS302",
+    "department": "Computer Science",
+    "level": "Advanced",
+    "price": 11999,
+    "duration": "14 weeks",
+    "rating": 4.4,
+    "reviewCount": 186,
+    "instructor": {
+      "id": "inst-1",
+      "name": "Dr. Sarah Johnson",
+      "title": "Professor of Computer Science",
+      "bio": "20+ years of experience in software development and education",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "rating": 4.9
+    },
+    "description": "This comprehensive advanced level course covers all aspects of artificial intelligence. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Strong foundation in the subject",
+      "Intermediate level courses completed",
+      "2+ years of experience recommended"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of artificial",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-8-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-8-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-8-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 6,
+    "studentsEnrolled": 476,
+    "isFeatured": false
+  },
+  {
+    "id": "9",
+    "title": "HTML, CSS & JavaScript Basics",
+    "code": "WEB101",
+    "department": "Web Development",
+    "level": "Beginner",
+    "price": 3999,
+    "duration": "6 weeks",
+    "rating": 4.5,
+    "reviewCount": 203,
+    "instructor": {
+      "id": "inst-2",
+      "name": "Prof. Michael Chen",
+      "title": "Senior Web Developer",
+      "bio": "Former Google engineer with 15 years in web technologies",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive beginner level course covers all aspects of html, css & javascript basics. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of html,",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-9-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-9-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-9-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 3,
+    "studentsEnrolled": 523,
+    "isFeatured": false
+  },
+  {
+    "id": "10",
+    "title": "React.js - The Complete Guide",
+    "code": "WEB201",
+    "department": "Web Development",
+    "level": "Intermediate",
+    "price": 7999,
+    "duration": "10 weeks",
+    "rating": 4.6,
+    "reviewCount": 220,
+    "instructor": {
+      "id": "inst-3",
+      "name": "Dr. Emily Rodriguez",
+      "title": "UX Research Lead",
+      "bio": "Expert in human-computer interaction and user experience",
+      "avatar": "\ud83d\udc69\u200d\ud83c\udfa8",
+      "rating": 4.9
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of react.js - the complete guide. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of react.js",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-10-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-10-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-10-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 570,
+    "isFeatured": false
+  },
+  {
+    "id": "11",
+    "title": "Node.js and Express Backend Development",
+    "code": "WEB202",
+    "department": "Web Development",
+    "level": "Intermediate",
+    "price": 7499,
+    "duration": "9 weeks",
+    "rating": 4.7,
+    "reviewCount": 237,
+    "instructor": {
+      "id": "inst-4",
+      "name": "James Williams",
+      "title": "Data Science Consultant",
+      "bio": "Ph.D. in Statistics with expertise in machine learning",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udd2c",
+      "rating": 4.7
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of node.js and express backend development. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of node.js",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-11-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-11-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-11-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 617,
+    "isFeatured": false
+  },
+  {
+    "id": "12",
+    "title": "Full-Stack Web Development with MERN",
+    "code": "WEB301",
+    "department": "Web Development",
+    "level": "Advanced",
+    "price": 12999,
+    "duration": "16 weeks",
+    "rating": 4.8,
+    "reviewCount": 254,
+    "instructor": {
+      "id": "inst-5",
+      "name": "Prof. Lisa Anderson",
+      "title": "Cloud Architect",
+      "bio": "AWS and Azure certified professional with 12 years experience",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive advanced level course covers all aspects of full-stack web development with mern. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Strong foundation in the subject",
+      "Intermediate level courses completed",
+      "2+ years of experience recommended"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of full-stack",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-12-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-12-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-12-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 7,
+    "studentsEnrolled": 664,
+    "isFeatured": true
+  },
+  {
+    "id": "13",
+    "title": "Next.js and Server-Side Rendering",
+    "code": "WEB203",
+    "department": "Web Development",
+    "level": "Intermediate",
+    "price": 8499,
+    "duration": "8 weeks",
+    "rating": 4.9,
+    "reviewCount": 271,
+    "instructor": {
+      "id": "inst-6",
+      "name": "David Kumar",
+      "title": "Cybersecurity Expert",
+      "bio": "Certified Ethical Hacker and security consultant",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udcbc",
+      "rating": 4.9
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of next.js and server-side rendering. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of next.js",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-13-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-13-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-13-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 711,
+    "isFeatured": false
+  },
+  {
+    "id": "14",
+    "title": "Progressive Web Applications (PWA)",
+    "code": "WEB204",
+    "department": "Web Development",
+    "level": "Intermediate",
+    "price": 6999,
+    "duration": "7 weeks",
+    "rating": 4.3,
+    "reviewCount": 288,
+    "instructor": {
+      "id": "inst-7",
+      "name": "Maria Garcia",
+      "title": "Marketing Strategist",
+      "bio": "15 years in digital marketing and brand management",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "rating": 4.7
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of progressive web applications (pwa). You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of progressive",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-14-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-14-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-14-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 758,
+    "isFeatured": false
+  },
+  {
+    "id": "15",
+    "title": "Android App Development with Kotlin",
+    "code": "MOB101",
+    "department": "Mobile Development",
+    "level": "Beginner",
+    "price": 6999,
+    "duration": "10 weeks",
+    "rating": 4.4,
+    "reviewCount": 305,
+    "instructor": {
+      "id": "inst-8",
+      "name": "Robert Taylor",
+      "title": "Professional Photographer",
+      "bio": "Award-winning photographer and videographer",
+      "avatar": "\ud83d\udc68\u200d\ud83c\udfa8",
+      "rating": 4.8
+    },
+    "description": "This comprehensive beginner level course covers all aspects of android app development with kotlin. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of android",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-15-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-15-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-15-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 805,
+    "isFeatured": false
+  },
+  {
+    "id": "16",
+    "title": "iOS App Development with Swift",
+    "code": "MOB102",
+    "department": "Mobile Development",
+    "level": "Beginner",
+    "price": 7499,
+    "duration": "10 weeks",
+    "rating": 4.5,
+    "reviewCount": 322,
+    "instructor": {
+      "id": "inst-1",
+      "name": "Dr. Sarah Johnson",
+      "title": "Professor of Computer Science",
+      "bio": "20+ years of experience in software development and education",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "rating": 4.9
+    },
+    "description": "This comprehensive beginner level course covers all aspects of ios app development with swift. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of ios",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-16-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-16-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-16-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 852,
+    "isFeatured": false
+  },
+  {
+    "id": "17",
+    "title": "React Native - Cross-Platform Development",
+    "code": "MOB201",
+    "department": "Mobile Development",
+    "level": "Intermediate",
+    "price": 8999,
+    "duration": "12 weeks",
+    "rating": 4.6,
+    "reviewCount": 339,
+    "instructor": {
+      "id": "inst-2",
+      "name": "Prof. Michael Chen",
+      "title": "Senior Web Developer",
+      "bio": "Former Google engineer with 15 years in web technologies",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of react native - cross-platform development. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of react",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-17-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-17-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-17-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 899,
+    "isFeatured": false
+  },
+  {
+    "id": "18",
+    "title": "Flutter App Development",
+    "code": "MOB202",
+    "department": "Mobile Development",
+    "level": "Intermediate",
+    "price": 8499,
+    "duration": "11 weeks",
+    "rating": 4.7,
+    "reviewCount": 56,
+    "instructor": {
+      "id": "inst-3",
+      "name": "Dr. Emily Rodriguez",
+      "title": "UX Research Lead",
+      "bio": "Expert in human-computer interaction and user experience",
+      "avatar": "\ud83d\udc69\u200d\ud83c\udfa8",
+      "rating": 4.9
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of flutter app development. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of flutter",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-18-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-18-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-18-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 946,
+    "isFeatured": true
+  },
+  {
+    "id": "19",
+    "title": "Graphic Design Fundamentals",
+    "code": "DES101",
+    "department": "Design & Arts",
+    "level": "Beginner",
+    "price": 4499,
+    "duration": "6 weeks",
+    "rating": 4.8,
+    "reviewCount": 73,
+    "instructor": {
+      "id": "inst-4",
+      "name": "James Williams",
+      "title": "Data Science Consultant",
+      "bio": "Ph.D. in Statistics with expertise in machine learning",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udd2c",
+      "rating": 4.7
+    },
+    "description": "This comprehensive beginner level course covers all aspects of graphic design fundamentals. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of graphic",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-19-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-19-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-19-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 3,
+    "studentsEnrolled": 993,
+    "isFeatured": false
+  },
+  {
+    "id": "20",
+    "title": "Adobe Photoshop Masterclass",
+    "code": "DES102",
+    "department": "Design & Arts",
+    "level": "Beginner",
+    "price": 3999,
+    "duration": "5 weeks",
+    "rating": 4.9,
+    "reviewCount": 90,
+    "instructor": {
+      "id": "inst-5",
+      "name": "Prof. Lisa Anderson",
+      "title": "Cloud Architect",
+      "bio": "AWS and Azure certified professional with 12 years experience",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive beginner level course covers all aspects of adobe photoshop masterclass. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of adobe",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-20-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-20-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-20-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 3,
+    "studentsEnrolled": 1040,
+    "isFeatured": false
+  },
+  {
+    "id": "21",
+    "title": "Digital Illustration with Procreate",
+    "code": "DES201",
+    "department": "Design & Arts",
+    "level": "Intermediate",
+    "price": 5999,
+    "duration": "7 weeks",
+    "rating": 4.3,
+    "reviewCount": 107,
+    "instructor": {
+      "id": "inst-6",
+      "name": "David Kumar",
+      "title": "Cybersecurity Expert",
+      "bio": "Certified Ethical Hacker and security consultant",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udcbc",
+      "rating": 4.9
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of digital illustration with procreate. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of digital",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-21-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-21-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-21-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 1087,
+    "isFeatured": false
+  },
+  {
+    "id": "22",
+    "title": "Brand Identity Design",
+    "code": "DES202",
+    "department": "Design & Arts",
+    "level": "Intermediate",
+    "price": 6999,
+    "duration": "8 weeks",
+    "rating": 4.4,
+    "reviewCount": 124,
+    "instructor": {
+      "id": "inst-7",
+      "name": "Maria Garcia",
+      "title": "Marketing Strategist",
+      "bio": "15 years in digital marketing and brand management",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "rating": 4.7
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of brand identity design. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of brand",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-22-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-22-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-22-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 134,
+    "isFeatured": false
+  },
+  {
+    "id": "23",
+    "title": "Advanced Typography and Layout",
+    "code": "DES301",
+    "department": "Design & Arts",
+    "level": "Advanced",
+    "price": 7999,
+    "duration": "9 weeks",
+    "rating": 4.5,
+    "reviewCount": 141,
+    "instructor": {
+      "id": "inst-8",
+      "name": "Robert Taylor",
+      "title": "Professional Photographer",
+      "bio": "Award-winning photographer and videographer",
+      "avatar": "\ud83d\udc68\u200d\ud83c\udfa8",
+      "rating": 4.8
+    },
+    "description": "This comprehensive advanced level course covers all aspects of advanced typography and layout. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Strong foundation in the subject",
+      "Intermediate level courses completed",
+      "2+ years of experience recommended"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of advanced",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-23-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-23-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-23-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 181,
+    "isFeatured": false
+  },
+  {
+    "id": "24",
+    "title": "User Experience Design Fundamentals",
+    "code": "UX101",
+    "department": "UI/UX Design",
+    "level": "Beginner",
+    "price": 5499,
+    "duration": "7 weeks",
+    "rating": 4.6,
+    "reviewCount": 158,
+    "instructor": {
+      "id": "inst-1",
+      "name": "Dr. Sarah Johnson",
+      "title": "Professor of Computer Science",
+      "bio": "20+ years of experience in software development and education",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "rating": 4.9
+    },
+    "description": "This comprehensive beginner level course covers all aspects of user experience design fundamentals. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of user",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-24-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-24-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-24-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 228,
+    "isFeatured": false
+  },
+  {
+    "id": "25",
+    "title": "UI Design with Figma",
+    "code": "UX102",
+    "department": "UI/UX Design",
+    "level": "Beginner",
+    "price": 4999,
+    "duration": "6 weeks",
+    "rating": 4.7,
+    "reviewCount": 175,
+    "instructor": {
+      "id": "inst-2",
+      "name": "Prof. Michael Chen",
+      "title": "Senior Web Developer",
+      "bio": "Former Google engineer with 15 years in web technologies",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive beginner level course covers all aspects of ui design with figma. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of ui",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-25-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-25-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-25-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 3,
+    "studentsEnrolled": 275,
+    "isFeatured": true
+  },
+  {
+    "id": "26",
+    "title": "Advanced UX Research and Testing",
+    "code": "UX201",
+    "department": "UI/UX Design",
+    "level": "Intermediate",
+    "price": 7999,
+    "duration": "9 weeks",
+    "rating": 4.8,
+    "reviewCount": 192,
+    "instructor": {
+      "id": "inst-3",
+      "name": "Dr. Emily Rodriguez",
+      "title": "UX Research Lead",
+      "bio": "Expert in human-computer interaction and user experience",
+      "avatar": "\ud83d\udc69\u200d\ud83c\udfa8",
+      "rating": 4.9
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of advanced ux research and testing. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of advanced",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-26-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-26-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-26-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 322,
+    "isFeatured": false
+  },
+  {
+    "id": "27",
+    "title": "Mobile App UI/UX Design",
+    "code": "UX202",
+    "department": "UI/UX Design",
+    "level": "Intermediate",
+    "price": 6999,
+    "duration": "8 weeks",
+    "rating": 4.9,
+    "reviewCount": 209,
+    "instructor": {
+      "id": "inst-4",
+      "name": "James Williams",
+      "title": "Data Science Consultant",
+      "bio": "Ph.D. in Statistics with expertise in machine learning",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udd2c",
+      "rating": 4.7
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of mobile app ui/ux design. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of mobile",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-27-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-27-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-27-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 369,
+    "isFeatured": false
+  },
+  {
+    "id": "28",
+    "title": "Video Editing with Premiere Pro",
+    "code": "MED101",
+    "department": "Media & Animation",
+    "level": "Beginner",
+    "price": 4999,
+    "duration": "6 weeks",
+    "rating": 4.3,
+    "reviewCount": 226,
+    "instructor": {
+      "id": "inst-5",
+      "name": "Prof. Lisa Anderson",
+      "title": "Cloud Architect",
+      "bio": "AWS and Azure certified professional with 12 years experience",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive beginner level course covers all aspects of video editing with premiere pro. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of video",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-28-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-28-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-28-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 3,
+    "studentsEnrolled": 416,
+    "isFeatured": false
+  },
+  {
+    "id": "29",
+    "title": "2D Animation with After Effects",
+    "code": "MED102",
+    "department": "Media & Animation",
+    "level": "Beginner",
+    "price": 5499,
+    "duration": "7 weeks",
+    "rating": 4.4,
+    "reviewCount": 243,
+    "instructor": {
+      "id": "inst-6",
+      "name": "David Kumar",
+      "title": "Cybersecurity Expert",
+      "bio": "Certified Ethical Hacker and security consultant",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udcbc",
+      "rating": 4.9
+    },
+    "description": "This comprehensive beginner level course covers all aspects of 2d animation with after effects. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of 2d",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-29-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-29-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-29-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 463,
+    "isFeatured": false
+  },
+  {
+    "id": "30",
+    "title": "3D Modeling and Animation with Blender",
+    "code": "MED201",
+    "department": "Media & Animation",
+    "level": "Intermediate",
+    "price": 8999,
+    "duration": "12 weeks",
+    "rating": 4.5,
+    "reviewCount": 260,
+    "instructor": {
+      "id": "inst-7",
+      "name": "Maria Garcia",
+      "title": "Marketing Strategist",
+      "bio": "15 years in digital marketing and brand management",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "rating": 4.7
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of 3d modeling and animation with blender. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of 3d",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-30-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-30-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-30-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 510,
+    "isFeatured": false
+  },
+  {
+    "id": "31",
+    "title": "Motion Graphics Design",
+    "code": "MED202",
+    "department": "Media & Animation",
+    "level": "Intermediate",
+    "price": 7499,
+    "duration": "9 weeks",
+    "rating": 4.6,
+    "reviewCount": 277,
+    "instructor": {
+      "id": "inst-8",
+      "name": "Robert Taylor",
+      "title": "Professional Photographer",
+      "bio": "Award-winning photographer and videographer",
+      "avatar": "\ud83d\udc68\u200d\ud83c\udfa8",
+      "rating": 4.8
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of motion graphics design. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of motion",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-31-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-31-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-31-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 557,
+    "isFeatured": false
+  },
+  {
+    "id": "32",
+    "title": "Introduction to Data Science with Python",
+    "code": "DS101",
+    "department": "Data Science",
+    "level": "Beginner",
+    "price": 5999,
+    "duration": "8 weeks",
+    "rating": 4.7,
+    "reviewCount": 294,
+    "instructor": {
+      "id": "inst-1",
+      "name": "Dr. Sarah Johnson",
+      "title": "Professor of Computer Science",
+      "bio": "20+ years of experience in software development and education",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "rating": 4.9
+    },
+    "description": "This comprehensive beginner level course covers all aspects of introduction to data science with python. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of introduction",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-32-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-32-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-32-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 604,
+    "isFeatured": false
+  },
+  {
+    "id": "33",
+    "title": "Machine Learning A-Z",
+    "code": "DS201",
+    "department": "Data Science",
+    "level": "Intermediate",
+    "price": 9999,
+    "duration": "14 weeks",
+    "rating": 4.8,
+    "reviewCount": 311,
+    "instructor": {
+      "id": "inst-2",
+      "name": "Prof. Michael Chen",
+      "title": "Senior Web Developer",
+      "bio": "Former Google engineer with 15 years in web technologies",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of machine learning a-z. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of machine",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-33-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-33-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-33-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 6,
+    "studentsEnrolled": 651,
+    "isFeatured": false
+  },
+  {
+    "id": "34",
+    "title": "Deep Learning and Neural Networks",
+    "code": "DS301",
+    "department": "Data Science",
+    "level": "Advanced",
+    "price": 12999,
+    "duration": "16 weeks",
+    "rating": 4.9,
+    "reviewCount": 328,
+    "instructor": {
+      "id": "inst-3",
+      "name": "Dr. Emily Rodriguez",
+      "title": "UX Research Lead",
+      "bio": "Expert in human-computer interaction and user experience",
+      "avatar": "\ud83d\udc69\u200d\ud83c\udfa8",
+      "rating": 4.9
+    },
+    "description": "This comprehensive advanced level course covers all aspects of deep learning and neural networks. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Strong foundation in the subject",
+      "Intermediate level courses completed",
+      "2+ years of experience recommended"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of deep",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-34-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-34-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-34-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 7,
+    "studentsEnrolled": 698,
+    "isFeatured": false
+  },
+  {
+    "id": "35",
+    "title": "Data Visualization with Tableau",
+    "code": "DS102",
+    "department": "Data Science",
+    "level": "Beginner",
+    "price": 4499,
+    "duration": "5 weeks",
+    "rating": 4.3,
+    "reviewCount": 345,
+    "instructor": {
+      "id": "inst-4",
+      "name": "James Williams",
+      "title": "Data Science Consultant",
+      "bio": "Ph.D. in Statistics with expertise in machine learning",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udd2c",
+      "rating": 4.7
+    },
+    "description": "This comprehensive beginner level course covers all aspects of data visualization with tableau. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of data",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-35-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-35-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-35-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 3,
+    "studentsEnrolled": 745,
+    "isFeatured": false
+  },
+  {
+    "id": "36",
+    "title": "Big Data Analytics with Spark",
+    "code": "DS202",
+    "department": "Data Science",
+    "level": "Intermediate",
+    "price": 8999,
+    "duration": "10 weeks",
+    "rating": 4.4,
+    "reviewCount": 62,
+    "instructor": {
+      "id": "inst-5",
+      "name": "Prof. Lisa Anderson",
+      "title": "Cloud Architect",
+      "bio": "AWS and Azure certified professional with 12 years experience",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of big data analytics with spark. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of big",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-36-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-36-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-36-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 792,
+    "isFeatured": false
+  },
+  {
+    "id": "37",
+    "title": "Natural Language Processing",
+    "code": "DS302",
+    "department": "Data Science",
+    "level": "Advanced",
+    "price": 11999,
+    "duration": "14 weeks",
+    "rating": 4.5,
+    "reviewCount": 79,
+    "instructor": {
+      "id": "inst-6",
+      "name": "David Kumar",
+      "title": "Cybersecurity Expert",
+      "bio": "Certified Ethical Hacker and security consultant",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udcbc",
+      "rating": 4.9
+    },
+    "description": "This comprehensive advanced level course covers all aspects of natural language processing. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Strong foundation in the subject",
+      "Intermediate level courses completed",
+      "2+ years of experience recommended"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of natural",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-37-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-37-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-37-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 6,
+    "studentsEnrolled": 839,
+    "isFeatured": false
+  },
+  {
+    "id": "38",
+    "title": "AWS Cloud Practitioner Essentials",
+    "code": "CLD101",
+    "department": "Cloud Computing",
+    "level": "Beginner",
+    "price": 5999,
+    "duration": "6 weeks",
+    "rating": 4.6,
+    "reviewCount": 96,
+    "instructor": {
+      "id": "inst-7",
+      "name": "Maria Garcia",
+      "title": "Marketing Strategist",
+      "bio": "15 years in digital marketing and brand management",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "rating": 4.7
+    },
+    "description": "This comprehensive beginner level course covers all aspects of aws cloud practitioner essentials. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of aws",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-38-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-38-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-38-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 3,
+    "studentsEnrolled": 886,
+    "isFeatured": false
+  },
+  {
+    "id": "39",
+    "title": "Microsoft Azure Fundamentals",
+    "code": "CLD102",
+    "department": "Cloud Computing",
+    "level": "Beginner",
+    "price": 5499,
+    "duration": "6 weeks",
+    "rating": 4.7,
+    "reviewCount": 113,
+    "instructor": {
+      "id": "inst-8",
+      "name": "Robert Taylor",
+      "title": "Professional Photographer",
+      "bio": "Award-winning photographer and videographer",
+      "avatar": "\ud83d\udc68\u200d\ud83c\udfa8",
+      "rating": 4.8
+    },
+    "description": "This comprehensive beginner level course covers all aspects of microsoft azure fundamentals. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of microsoft",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-39-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-39-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-39-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 3,
+    "studentsEnrolled": 933,
+    "isFeatured": false
+  },
+  {
+    "id": "40",
+    "title": "Google Cloud Platform for Developers",
+    "code": "CLD201",
+    "department": "Cloud Computing",
+    "level": "Intermediate",
+    "price": 7999,
+    "duration": "9 weeks",
+    "rating": 4.8,
+    "reviewCount": 130,
+    "instructor": {
+      "id": "inst-1",
+      "name": "Dr. Sarah Johnson",
+      "title": "Professor of Computer Science",
+      "bio": "20+ years of experience in software development and education",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "rating": 4.9
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of google cloud platform for developers. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of google",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-40-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-40-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-40-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 980,
+    "isFeatured": false
+  },
+  {
+    "id": "41",
+    "title": "DevOps and CI/CD with Docker & Kubernetes",
+    "code": "CLD202",
+    "department": "Cloud Computing",
+    "level": "Intermediate",
+    "price": 9999,
+    "duration": "12 weeks",
+    "rating": 4.9,
+    "reviewCount": 147,
+    "instructor": {
+      "id": "inst-2",
+      "name": "Prof. Michael Chen",
+      "title": "Senior Web Developer",
+      "bio": "Former Google engineer with 15 years in web technologies",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of devops and ci/cd with docker & kubernetes. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of devops",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-41-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-41-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-41-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 6,
+    "studentsEnrolled": 1027,
+    "isFeatured": false
+  },
+  {
+    "id": "42",
+    "title": "Cloud Architecture and Design Patterns",
+    "code": "CLD301",
+    "department": "Cloud Computing",
+    "level": "Advanced",
+    "price": 10999,
+    "duration": "14 weeks",
+    "rating": 4.3,
+    "reviewCount": 164,
+    "instructor": {
+      "id": "inst-3",
+      "name": "Dr. Emily Rodriguez",
+      "title": "UX Research Lead",
+      "bio": "Expert in human-computer interaction and user experience",
+      "avatar": "\ud83d\udc69\u200d\ud83c\udfa8",
+      "rating": 4.9
+    },
+    "description": "This comprehensive advanced level course covers all aspects of cloud architecture and design patterns. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Strong foundation in the subject",
+      "Intermediate level courses completed",
+      "2+ years of experience recommended"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of cloud",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-42-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-42-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-42-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 6,
+    "studentsEnrolled": 1074,
+    "isFeatured": false
+  },
+  {
+    "id": "43",
+    "title": "Introduction to Cybersecurity",
+    "code": "SEC101",
+    "department": "Cybersecurity",
+    "level": "Beginner",
+    "price": 4999,
+    "duration": "6 weeks",
+    "rating": 4.4,
+    "reviewCount": 181,
+    "instructor": {
+      "id": "inst-4",
+      "name": "James Williams",
+      "title": "Data Science Consultant",
+      "bio": "Ph.D. in Statistics with expertise in machine learning",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udd2c",
+      "rating": 4.7
+    },
+    "description": "This comprehensive beginner level course covers all aspects of introduction to cybersecurity. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of introduction",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-43-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-43-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-43-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 3,
+    "studentsEnrolled": 121,
+    "isFeatured": false
+  },
+  {
+    "id": "44",
+    "title": "Ethical Hacking and Penetration Testing",
+    "code": "SEC201",
+    "department": "Cybersecurity",
+    "level": "Intermediate",
+    "price": 9999,
+    "duration": "12 weeks",
+    "rating": 4.5,
+    "reviewCount": 198,
+    "instructor": {
+      "id": "inst-5",
+      "name": "Prof. Lisa Anderson",
+      "title": "Cloud Architect",
+      "bio": "AWS and Azure certified professional with 12 years experience",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of ethical hacking and penetration testing. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of ethical",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-44-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-44-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-44-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 6,
+    "studentsEnrolled": 168,
+    "isFeatured": false
+  },
+  {
+    "id": "45",
+    "title": "Network Security Fundamentals",
+    "code": "SEC102",
+    "department": "Cybersecurity",
+    "level": "Beginner",
+    "price": 5499,
+    "duration": "7 weeks",
+    "rating": 4.6,
+    "reviewCount": 215,
+    "instructor": {
+      "id": "inst-6",
+      "name": "David Kumar",
+      "title": "Cybersecurity Expert",
+      "bio": "Certified Ethical Hacker and security consultant",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udcbc",
+      "rating": 4.9
+    },
+    "description": "This comprehensive beginner level course covers all aspects of network security fundamentals. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of network",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-45-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-45-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-45-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 215,
+    "isFeatured": false
+  },
+  {
+    "id": "46",
+    "title": "Advanced Threat Detection and Response",
+    "code": "SEC301",
+    "department": "Cybersecurity",
+    "level": "Advanced",
+    "price": 11999,
+    "duration": "14 weeks",
+    "rating": 4.7,
+    "reviewCount": 232,
+    "instructor": {
+      "id": "inst-7",
+      "name": "Maria Garcia",
+      "title": "Marketing Strategist",
+      "bio": "15 years in digital marketing and brand management",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "rating": 4.7
+    },
+    "description": "This comprehensive advanced level course covers all aspects of advanced threat detection and response. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Strong foundation in the subject",
+      "Intermediate level courses completed",
+      "2+ years of experience recommended"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of advanced",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-46-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-46-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-46-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 6,
+    "studentsEnrolled": 262,
+    "isFeatured": false
+  },
+  {
+    "id": "47",
+    "title": "Digital Marketing Masterclass",
+    "code": "BUS101",
+    "department": "Business & Marketing",
+    "level": "Beginner",
+    "price": 4999,
+    "duration": "7 weeks",
+    "rating": 4.8,
+    "reviewCount": 249,
+    "instructor": {
+      "id": "inst-8",
+      "name": "Robert Taylor",
+      "title": "Professional Photographer",
+      "bio": "Award-winning photographer and videographer",
+      "avatar": "\ud83d\udc68\u200d\ud83c\udfa8",
+      "rating": 4.8
+    },
+    "description": "This comprehensive beginner level course covers all aspects of digital marketing masterclass. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of digital",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-47-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-47-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-47-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 309,
+    "isFeatured": false
+  },
+  {
+    "id": "48",
+    "title": "Social Media Marketing Strategy",
+    "code": "BUS102",
+    "department": "Business & Marketing",
+    "level": "Beginner",
+    "price": 3999,
+    "duration": "5 weeks",
+    "rating": 4.9,
+    "reviewCount": 266,
+    "instructor": {
+      "id": "inst-1",
+      "name": "Dr. Sarah Johnson",
+      "title": "Professor of Computer Science",
+      "bio": "20+ years of experience in software development and education",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "rating": 4.9
+    },
+    "description": "This comprehensive beginner level course covers all aspects of social media marketing strategy. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of social",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-48-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-48-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-48-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 3,
+    "studentsEnrolled": 356,
+    "isFeatured": false
+  },
+  {
+    "id": "49",
+    "title": "Search Engine Optimization (SEO)",
+    "code": "BUS201",
+    "department": "Business & Marketing",
+    "level": "Intermediate",
+    "price": 5999,
+    "duration": "6 weeks",
+    "rating": 4.3,
+    "reviewCount": 283,
+    "instructor": {
+      "id": "inst-2",
+      "name": "Prof. Michael Chen",
+      "title": "Senior Web Developer",
+      "bio": "Former Google engineer with 15 years in web technologies",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of search engine optimization (seo). You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of search",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-49-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-49-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-49-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 403,
+    "isFeatured": false
+  },
+  {
+    "id": "50",
+    "title": "Business Analytics and Intelligence",
+    "code": "BUS202",
+    "department": "Business & Marketing",
+    "level": "Intermediate",
+    "price": 7999,
+    "duration": "9 weeks",
+    "rating": 4.4,
+    "reviewCount": 300,
+    "instructor": {
+      "id": "inst-3",
+      "name": "Dr. Emily Rodriguez",
+      "title": "UX Research Lead",
+      "bio": "Expert in human-computer interaction and user experience",
+      "avatar": "\ud83d\udc69\u200d\ud83c\udfa8",
+      "rating": 4.9
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of business analytics and intelligence. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of business",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-50-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-50-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-50-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 450,
+    "isFeatured": false
+  },
+  {
+    "id": "51",
+    "title": "Strategic Management and Leadership",
+    "code": "BUS301",
+    "department": "Business & Marketing",
+    "level": "Advanced",
+    "price": 9999,
+    "duration": "12 weeks",
+    "rating": 4.5,
+    "reviewCount": 317,
+    "instructor": {
+      "id": "inst-4",
+      "name": "James Williams",
+      "title": "Data Science Consultant",
+      "bio": "Ph.D. in Statistics with expertise in machine learning",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udd2c",
+      "rating": 4.7
+    },
+    "description": "This comprehensive advanced level course covers all aspects of strategic management and leadership. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Strong foundation in the subject",
+      "Intermediate level courses completed",
+      "2+ years of experience recommended"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of strategic",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-51-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-51-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-51-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 6,
+    "studentsEnrolled": 497,
+    "isFeatured": false
+  },
+  {
+    "id": "52",
+    "title": "Financial Accounting Fundamentals",
+    "code": "FIN101",
+    "department": "Finance & Accounting",
+    "level": "Beginner",
+    "price": 4499,
+    "duration": "6 weeks",
+    "rating": 4.6,
+    "reviewCount": 334,
+    "instructor": {
+      "id": "inst-5",
+      "name": "Prof. Lisa Anderson",
+      "title": "Cloud Architect",
+      "bio": "AWS and Azure certified professional with 12 years experience",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive beginner level course covers all aspects of financial accounting fundamentals. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of financial",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-52-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-52-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-52-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 3,
+    "studentsEnrolled": 544,
+    "isFeatured": false
+  },
+  {
+    "id": "53",
+    "title": "Investment and Portfolio Management",
+    "code": "FIN201",
+    "department": "Finance & Accounting",
+    "level": "Intermediate",
+    "price": 7999,
+    "duration": "10 weeks",
+    "rating": 4.7,
+    "reviewCount": 51,
+    "instructor": {
+      "id": "inst-6",
+      "name": "David Kumar",
+      "title": "Cybersecurity Expert",
+      "bio": "Certified Ethical Hacker and security consultant",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udcbc",
+      "rating": 4.9
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of investment and portfolio management. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of investment",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-53-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-53-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-53-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 591,
+    "isFeatured": false
+  },
+  {
+    "id": "54",
+    "title": "Corporate Finance and Valuation",
+    "code": "FIN202",
+    "department": "Finance & Accounting",
+    "level": "Intermediate",
+    "price": 8499,
+    "duration": "11 weeks",
+    "rating": 4.8,
+    "reviewCount": 68,
+    "instructor": {
+      "id": "inst-7",
+      "name": "Maria Garcia",
+      "title": "Marketing Strategist",
+      "bio": "15 years in digital marketing and brand management",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "rating": 4.7
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of corporate finance and valuation. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of corporate",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-54-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-54-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-54-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 638,
+    "isFeatured": false
+  },
+  {
+    "id": "55",
+    "title": "Financial Modeling in Excel",
+    "code": "FIN102",
+    "department": "Finance & Accounting",
+    "level": "Beginner",
+    "price": 5499,
+    "duration": "7 weeks",
+    "rating": 4.9,
+    "reviewCount": 85,
+    "instructor": {
+      "id": "inst-8",
+      "name": "Robert Taylor",
+      "title": "Professional Photographer",
+      "bio": "Award-winning photographer and videographer",
+      "avatar": "\ud83d\udc68\u200d\ud83c\udfa8",
+      "rating": 4.8
+    },
+    "description": "This comprehensive beginner level course covers all aspects of financial modeling in excel. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of financial",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-55-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-55-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-55-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 685,
+    "isFeatured": false
+  },
+  {
+    "id": "56",
+    "title": "Photography for Beginners",
+    "code": "PHO101",
+    "department": "Photography & Videography",
+    "level": "Beginner",
+    "price": 3999,
+    "duration": "5 weeks",
+    "rating": 4.3,
+    "reviewCount": 102,
+    "instructor": {
+      "id": "inst-1",
+      "name": "Dr. Sarah Johnson",
+      "title": "Professor of Computer Science",
+      "bio": "20+ years of experience in software development and education",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "rating": 4.9
+    },
+    "description": "This comprehensive beginner level course covers all aspects of photography for beginners. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Basic computer skills"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of photography",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-56-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-56-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-56-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 3,
+    "studentsEnrolled": 732,
+    "isFeatured": false
+  },
+  {
+    "id": "57",
+    "title": "Portrait Photography Mastery",
+    "code": "PHO201",
+    "department": "Photography & Videography",
+    "level": "Intermediate",
+    "price": 6999,
+    "duration": "8 weeks",
+    "rating": 4.4,
+    "reviewCount": 119,
+    "instructor": {
+      "id": "inst-2",
+      "name": "Prof. Michael Chen",
+      "title": "Senior Web Developer",
+      "bio": "Former Google engineer with 15 years in web technologies",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of portrait photography mastery. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of portrait",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-57-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-57-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-57-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 779,
+    "isFeatured": false
+  },
+  {
+    "id": "58",
+    "title": "Commercial Videography",
+    "code": "PHO202",
+    "department": "Photography & Videography",
+    "level": "Intermediate",
+    "price": 7999,
+    "duration": "10 weeks",
+    "rating": 4.5,
+    "reviewCount": 136,
+    "instructor": {
+      "id": "inst-3",
+      "name": "Dr. Emily Rodriguez",
+      "title": "UX Research Lead",
+      "bio": "Expert in human-computer interaction and user experience",
+      "avatar": "\ud83d\udc69\u200d\ud83c\udfa8",
+      "rating": 4.9
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of commercial videography. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of commercial",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-58-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-58-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-58-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 5,
+    "studentsEnrolled": 826,
+    "isFeatured": false
+  },
+  {
+    "id": "59",
+    "title": "Wedding Photography and Editing",
+    "code": "PHO203",
+    "department": "Photography & Videography",
+    "level": "Intermediate",
+    "price": 6499,
+    "duration": "7 weeks",
+    "rating": 4.6,
+    "reviewCount": 153,
+    "instructor": {
+      "id": "inst-4",
+      "name": "James Williams",
+      "title": "Data Science Consultant",
+      "bio": "Ph.D. in Statistics with expertise in machine learning",
+      "avatar": "\ud83d\udc68\u200d\ud83d\udd2c",
+      "rating": 4.7
+    },
+    "description": "This comprehensive intermediate level course covers all aspects of wedding photography and editing. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Completion of introductory courses",
+      "Programming fundamentals"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of wedding",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-59-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-59-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-59-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 4,
+    "studentsEnrolled": 873,
+    "isFeatured": false
+  },
+  {
+    "id": "60",
+    "title": "Cinematic Video Production",
+    "code": "PHO301",
+    "department": "Photography & Videography",
+    "level": "Advanced",
+    "price": 9999,
+    "duration": "12 weeks",
+    "rating": 4.7,
+    "reviewCount": 170,
+    "instructor": {
+      "id": "inst-5",
+      "name": "Prof. Lisa Anderson",
+      "title": "Cloud Architect",
+      "bio": "AWS and Azure certified professional with 12 years experience",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udcbb",
+      "rating": 4.8
+    },
+    "description": "This comprehensive advanced level course covers all aspects of cinematic video production. You'll gain practical skills and theoretical knowledge needed to excel in this field. The course includes hands-on projects, quizzes, and assignments to reinforce your learning.",
+    "prerequisites": [
+      "Strong foundation in the subject",
+      "Intermediate level courses completed",
+      "2+ years of experience recommended"
+    ],
+    "learningOutcomes": [
+      "Understand core concepts of cinematic",
+      "Apply practical skills in real-world scenarios",
+      "Build portfolio-ready projects",
+      "Gain industry-relevant knowledge"
+    ],
+    "reviews": [
+      {
+        "id": "rev-60-1",
+        "studentName": "Alex Thompson",
+        "rating": 5,
+        "comment": "Excellent course! The instructor explains concepts clearly and provides great examples.",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "rev-60-2",
+        "studentName": "Priya Sharma",
+        "rating": 4,
+        "comment": "Very informative and well-structured. Would recommend to anyone interested in this field.",
+        "date": "2024-11-10"
+      },
+      {
+        "id": "rev-60-3",
+        "studentName": "John Davis",
+        "rating": 5,
+        "comment": "This course exceeded my expectations. Great learning experience!",
+        "date": "2024-11-05"
+      }
+    ],
+    "thumbnail": "\ud83c\udf93",
+    "credits": 6,
+    "studentsEnrolled": 920,
+    "isFeatured": false
+  }
+]

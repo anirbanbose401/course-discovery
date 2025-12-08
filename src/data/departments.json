@@ -1,0 +1,86 @@
+[
+  {
+    "id": "dept-1",
+    "name": "Computer Science",
+    "icon": "💻",
+    "courseCount": 8,
+    "description": "Master programming, algorithms, and software development"
+  },
+  {
+    "id": "dept-2",
+    "name": "Web Development",
+    "icon": "🌐",
+    "courseCount": 6,
+    "description": "Build modern web applications with cutting-edge technologies"
+  },
+  {
+    "id": "dept-3",
+    "name": "Mobile Development",
+    "icon": "📱",
+    "courseCount": 4,
+    "description": "Create native and cross-platform mobile applications"
+  },
+  {
+    "id": "dept-4",
+    "name": "Design & Arts",
+    "icon": "🎨",
+    "courseCount": 5,
+    "description": "Express creativity through digital art and design"
+  },
+  {
+    "id": "dept-5",
+    "name": "UI/UX Design",
+    "icon": "✨",
+    "courseCount": 4,
+    "description": "Design beautiful and intuitive user experiences"
+  },
+  {
+    "id": "dept-6",
+    "name": "Media & Animation",
+    "icon": "🎬",
+    "courseCount": 4,
+    "description": "Create stunning animations and multimedia content"
+  },
+  {
+    "id": "dept-7",
+    "name": "Data Science",
+    "icon": "📊",
+    "courseCount": 6,
+    "description": "Analyze data and build machine learning models"
+  },
+  {
+    "id": "dept-8",
+    "name": "Cloud Computing",
+    "icon": "☁️",
+    "courseCount": 5,
+    "description": "Deploy and manage applications in the cloud"
+  },
+  {
+    "id": "dept-9",
+    "name": "Cybersecurity",
+    "icon": "🔒",
+    "courseCount": 4,
+    "description": "Protect systems and data from cyber threats"
+  },
+  {
+    "id": "dept-10",
+    "name": "Business & Marketing",
+    "icon": "📈",
+    "courseCount": 5,
+    "description": "Grow your business and master marketing strategies"
+  },
+  {
+    "id": "dept-11",
+    "name": "Finance & Accounting",
+    "icon": "💰",
+    "courseCount": 4,
+    "description": "Manage finances and understand accounting principles"
+  },
+  {
+    "id": "dept-12",
+    "name": "Photography & Videography",
+    "icon": "📷",
+    "courseCount": 5,
+    "description": "Capture moments and create professional visual content"
+  }
+]

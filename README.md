@@ -1,19 +1,57 @@
 # CourseHub
 
-CourseHub is a modern, responsive web application designed to facilitate course discovery and enrollment. Built with the latest web technologies, it offers a seamless user experience for browsing courses, managing wishlists, and enrolling in educational programs.
+**A modern, responsive course discovery and enrollment platform built with Next.js 16.**
 
-Website - [CourseHub](https://course-discovery.vercel.app/)
+CourseHub is a feature-rich web application designed to facilitate online learning. It allows users to browse a comprehensive catalog, filter courses dynamically, manage a wishlist, and enroll in programs through a secure, multi-step process.
 
-## Features Completed
+---
 
--   **Course Discovery**: Browse a comprehensive catalog of courses with advanced filtering and search capabilities.
--   **Detailed Course Info**: View detailed information about each course, including curriculum, instructor details, and schedules.
--   **Enrollment System**: A robust enrollment flow powered by **React Final Form** and **Yup validation** to ensure accurate data capture.
--   **Wishlist Management**: Users can save courses to their wishlist for future reference, managed via React Context.
--   **Newsletter Subscription**: Integrated newsletter signup functionality to keep users updated (API route implementation).
--   **Responsive Design**: precise layout adjustments for mobile, tablet, and desktop views using **Tailwind CSS**.
--   **Interactive UI**: Enhanced user engagement with animations (**Lottie React**) and modern UI components (**Radix UI**).
--   **Mock Backend**: Uses local JSON data for courses and departments, allowing for a strictly frontend-focused setup without complex database prerequisites.
+## Links
+
+- **Repository:** [https://github.com/anirbanbose401/course-discovery.git](https://github.com/anirbanbose401/course-discovery.git)
+- **Live Demo:** [CourseHub](https://course-discovery.vercel.app/)
+
+---
+
+## Features Implemented
+
+### 1. Course Discovery (Listing Page)
+- **Advanced Search:** Real-time text search by course name or instructor.
+- **Dynamic Filtering:** Filter by **Department**, **Level** (Beginner, Intermediate, Advanced), and **Price Range**.
+- **URL Synchronization:** Filters and search queries update the URL query params (e.g., `?search=react&level=beginner`), making results shareable.
+- **Sorting:** Sort options for Price (Low-High), Rating, and A-Z.
+- **Responsive Grid:** Card-based layout that adapts perfectly from mobile to desktop.
+
+### 2. Course Details
+- **Dynamic Routing:** Individual pages for each course (`/courses/[id]`).
+- **Rich Content:** Displays curriculum, instructor bio, prerequisites, and learning outcomes.
+- **Contextual Navigation:** "Enroll Now" redirects users to the form with course data pre-filled.
+
+### 3. Two-Step Enrollment Form
+Built with **React Final Form** and **Yup**, featuring strict validation logic:
+- **Step 1: Personal Info**
+  - **Age Validation:** Custom logic ensures the user is strictly **18+ years old**.
+  - **Phone Validation:** Enforces Indian mobile number format (`+91-XXXXXXXXXX`).
+- **Step 2: Academic Details**
+  - Education level selection and terms agreement.
+- **UX Enhancements:** Progress indicator, error handling on "Touch", and auto-redirect upon success.
+
+### 4. My Enrollments & Wishlist
+- **Persistence:** Enrolled courses are saved to LocalStorage.
+- **Dashboard:** View enrolled courses with course ID.
+- **Wishlist:** Heart icon functionality to save courses for later viewing.
+
+### 5. Bonus Features
+- **Course Comparison:** Compare selected courses side-by-side.
+- **Enrollment Cancellation:** Option to cancel an active enrollment.
+- **Newsletter Subscription:** API route implementation for footer signup.
+- **Filter count badges:** Show count of active filters
+- **Course favoriting:** Heart icon to save favorite courses
+- **Search history:** Show last 3 searches with quick access
+- **Form auto-save:** Save form draft every 30 seconds
+
+
+---
 
 ## Tech Stack Used
 

@@ -2,7 +2,7 @@
 
 CourseHub is a modern, responsive web application designed to facilitate course discovery and enrollment. Built with the latest web technologies, it offers a seamless user experience for browsing courses, managing wishlists, and enrolling in educational programs.
 
-## 🚀 Features Completed
+## Features Completed
 
 -   **Course Discovery**: Browse a comprehensive catalog of courses with advanced filtering and search capabilities.
 -   **Detailed Course Info**: View detailed information about each course, including curriculum, instructor details, and schedules.
@@ -24,13 +24,13 @@ CourseHub is a modern, responsive web application designed to facilitate course 
 -   **Animations**: [Lottie React](https://github.com/Gamote/lottie-react)
 -   **Date Handling**: [date-fns](https://date-fns.org/)
 
-## ⚙️ Setup Instructions (How to run locally)
+## Setup Instructions (How to run locally)
 
 Follow these steps to get the project up and running on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone "https://github.com/anirbanbose401/course-discovery.git"
     cd coursehub
     ```
 
@@ -47,7 +47,7 @@ Follow these steps to get the project up and running on your local machine:
 4.  **Open your browser:**
     Navigate to [http://localhost:3000](http://localhost:3000) to view the application.
 
-## 💡 Any Challenges Faced
+## Challenges Faced
 
 -   **Complex Form Validation**: Implementing multi-step validation for the enrollment process required careful state management and synchronization between specific form fields and the backend API schema.
 -   **State Management**: Ensuring the `Wishlist` state persisted correctly across page navigations and synced with user interactions without hydration errors in Next.js.

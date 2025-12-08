@@ -13,7 +13,7 @@ CourseHub is a modern, responsive web application designed to facilitate course 
 -   **Interactive UI**: Enhanced user engagement with animations (**Lottie React**) and modern UI components (**Radix UI**).
 -   **Mock Backend**: Uses local JSON data for courses and departments, allowing for a strictly frontend-focused setup without complex database prerequisites.
 
-## 🛠 Tech Stack Used
+## Tech Stack Used
 
 -   **Framework**: [Next.js 16](https://nextjs.org/) (App Router)
 -   **Language**: [TypeScript](https://www.typescriptlang.org/)

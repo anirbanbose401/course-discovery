@@ -2,6 +2,8 @@
 
 CourseHub is a modern, responsive web application designed to facilitate course discovery and enrollment. Built with the latest web technologies, it offers a seamless user experience for browsing courses, managing wishlists, and enrolling in educational programs.
 
+Website - [CourseHub](https://course-discovery.vercel.app/)
+
 ## Features Completed
 
 -   **Course Discovery**: Browse a comprehensive catalog of courses with advanced filtering and search capabilities.

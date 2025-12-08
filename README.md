@@ -9,7 +9,7 @@ CourseHub is a feature-rich web application designed to facilitate online learni
 ## Links
 
 - **Repository:** [https://github.com/anirbanbose401/course-discovery.git](https://github.com/anirbanbose401/course-discovery.git)
-- **Live Demo:** [CourseHub](https://course-discovery.vercel.app/)
+- **Website:** [CourseHub](https://course-discovery.vercel.app/)
 
 ---
 
